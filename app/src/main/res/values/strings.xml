@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ICE Tasks Android</string>
+    <string name="home_label">Home</string>
+    <string name="second_label">Fragment 2: Retrofit API</string>
+    <string name="fragment3_label">Fragment 3: Add Data</string>
+    <string name="fragment4_label">Fragment 4: View Data</string>
+    <string name="fragment5_label">Fragment 5: Map Integration</string>
+</resources>
